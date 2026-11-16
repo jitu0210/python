@@ -1,0 +1,178 @@
+# Python Tutorial (same order as the W3Schools sidebar)
+
+Each numbered folder is one W3Schools section; the files inside are its
+dropdown topics, in order. Run any lesson with: `python <folder>/<file>.py`
+
+- **[01_Python_Intro](01_Python_Intro/)** - Python Intro
+    - Intro
+- **[02_Python_Get_Started](02_Python_Get_Started/)** - Python Get Started
+    - Get Started
+- **[03_Python_Syntax](03_Python_Syntax/)** - Python Syntax
+    - Syntax
+    - Statements
+- **[04_Python_Output](04_Python_Output/)** - Python Output
+    - Print Text
+    - Print Numbers
+- **[05_Python_Comments](05_Python_Comments/)** - Python Comments
+    - Comments
+- **[06_Python_Variables](06_Python_Variables/)** - Python Variables
+    - Variables
+    - Variable Names
+    - Assign Multiple Values
+    - Output Variables
+    - Global Variables
+- **[07_Python_Data_Types](07_Python_Data_Types/)** - Python Data Types
+    - Data Types
+- **[08_Python_Numbers](08_Python_Numbers/)** - Python Numbers
+    - Numbers
+- **[09_Python_Casting](09_Python_Casting/)** - Python Casting
+    - Casting
+- **[10_Python_Strings](10_Python_Strings/)** - Python Strings
+    - Strings
+    - Slicing Strings
+    - Modify Strings
+    - Concatenate Strings
+    - Format Strings
+    - Escape Characters
+    - String Methods
+- **[11_Python_Booleans](11_Python_Booleans/)** - Python Booleans
+    - Booleans
+- **[12_Python_Operators](12_Python_Operators/)** - Python Operators
+    - Operators
+    - Arithmetic Operators
+    - Assignment Operators
+    - Ternary Operator
+    - Comparison Operators
+    - Logical Operators
+    - Identity Operators
+    - Membership Operators
+    - Bitwise Operators
+    - Operator Precedence
+- **[13_Python_Lists](13_Python_Lists/)** - Python Lists
+    - Lists
+    - Access List Items
+    - Change List Items
+    - __add__ List Items
+    - Remove List Items
+    - Loop Lists
+    - List Comprehension
+    - Sort Lists
+    - Copy Lists
+    - Join Lists
+    - List Methods
+- **[14_Python_Tuples](14_Python_Tuples/)** - Python Tuples
+    - Tuples
+    - Access Tuples
+    - Update Tuples
+    - Unpack Tuples
+    - Loop Tuples
+    - Join Tuples
+    - Tuple Methods
+- **[15_Python_Sets](15_Python_Sets/)** - Python Sets
+    - Sets
+    - Access Set Items
+    - __add__ Set Items
+    - Remove Set Items
+    - Loop Sets
+    - Join Sets
+    - Frozenset
+    - Set Methods
+- **[16_Python_Dictionaries](16_Python_Dictionaries/)** - Python Dictionaries
+    - Dictionaries
+    - Access Items
+    - Change Items
+    - __add__ Items
+    - Remove Items
+    - Loop Dictionaries
+    - Copy Dictionaries
+    - Nested Dictionaries
+    - Dictionary Methods
+- **[17_Python_If_Else](17_Python_If_Else/)** - Python If...Else
+    - If
+    - Elif
+    - Else
+    - Shorthand If
+    - Logical Operators
+    - Nested If
+    - Pass Statement
+- **[18_Python_Match](18_Python_Match/)** - Python Match
+    - Match
+- **[19_Python_While_Loops](19_Python_While_Loops/)** - Python While Loops
+    - While Loops
+- **[20_Python_For_Loops](20_Python_For_Loops/)** - Python For Loops
+    - For Loops
+- **[21_Python_Functions](21_Python_Functions/)** - Python Functions
+    - Functions
+    - Arguments
+    - *args **kwargs
+    - Scope
+    - Decorators
+    - Lambda
+    - Recursion
+    - Generators
+- **[22_Python_Range](22_Python_Range/)** - Python Range
+    - Range
+- **[23_Python_Arrays](23_Python_Arrays/)** - Python Arrays
+    - Arrays
+- **[24_Python_Iterators](24_Python_Iterators/)** - Python Iterators
+    - Iterators
+- **[25_Python_Modules](25_Python_Modules/)** - Python Modules
+    - Modules
+- **[26_Python_Dates](26_Python_Dates/)** - Python Dates
+    - Dates
+- **[27_Python_Math](27_Python_Math/)** - Python Math
+    - Math
+- **[28_Python_JSON](28_Python_JSON/)** - Python JSON
+    - JSON
+- **[29_Python_RegEx](29_Python_RegEx/)** - Python RegEx
+    - RegEx
+- **[30_Python_PIP](30_Python_PIP/)** - Python PIP
+    - PIP
+- **[31_Python_Try_Except](31_Python_Try_Except/)** - Python Try...Except
+    - Try Except
+- **[32_Python_String_Formatting](32_Python_String_Formatting/)** - Python String Formatting
+    - String Formatting
+- **[33_Python_None](33_Python_None/)** - Python None
+    - None
+- **[34_Python_User_Input](34_Python_User_Input/)** - Python User Input
+    - User Input
+- **[35_Python_VirtualEnv](35_Python_VirtualEnv/)** - Python VirtualEnv
+    - VirtualEnv
+- **[36_Python_OOP](36_Python_OOP/)** - Python OOP
+    - OOP
+- **[37_Python_Classes_Objects](37_Python_Classes_Objects/)** - Python Classes/Objects
+    - Classes Objects
+- **[38_Python_init_Method](38_Python_init_Method/)** - Python __init__ Method
+    - __init__ Method
+- **[39_Python_self_Parameter](39_Python_self_Parameter/)** - Python self Parameter
+    - self Parameter
+- **[40_Python_Class_Properties](40_Python_Class_Properties/)** - Python Class Properties
+    - Class Properties
+- **[41_Python_Class_Methods](41_Python_Class_Methods/)** - Python Class Methods
+    - Class Methods
+- **[42_Python_Magic_Methods](42_Python_Magic_Methods/)** - Python Magic Methods
+    - Magic Methods
+    - __str__
+    - __repr__
+    - __eq__
+    - __add__
+    - __len__
+    - __lt__
+    - __contains__
+    - __call__
+- **[43_Python_Inheritance](43_Python_Inheritance/)** - Python Inheritance
+    - Inheritance
+- **[44_Python_Polymorphism](44_Python_Polymorphism/)** - Python Polymorphism
+    - Polymorphism
+- **[45_Python_Encapsulation](45_Python_Encapsulation/)** - Python Encapsulation
+    - Encapsulation
+- **[46_Python_Inner_Classes](46_Python_Inner_Classes/)** - Python Inner Classes
+    - Inner Classes
+- **[47_Python_File_Handling](47_Python_File_Handling/)** - Python File Handling
+    - File Handling
+- **[48_Python_Read_Files](48_Python_Read_Files/)** - Python Read Files
+    - Read Files
+- **[49_Python_Write_Create_Files](49_Python_Write_Create_Files/)** - Python Write/Create Files
+    - Write Create Files
+- **[50_Python_Delete_Files](50_Python_Delete_Files/)** - Python Delete Files
+    - Delete Files
